@@ -4,7 +4,7 @@ import {Icon} from "../icon/Icon.tsx";
 export const Logo = () => {
     return (
         <a href=''>
-            <Icon iconId={'codeSvg'}/>
+            <Icon iconId={'code'}/>
         </a>
     );
 };
