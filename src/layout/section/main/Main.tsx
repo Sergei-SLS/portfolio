@@ -11,11 +11,11 @@ export const Main = () => {
         <StyledMain>
             <Container>
                 <FlexWrapper align={'center'} justify={'space-around'} wrap={'wrap'}>
-                    <div>
+                    <TextBlock>
                         <SmallText>Hi There</SmallText>
                         <Name>I am <span>Svetlana Dyablo</span></Name>
                         <MainTitle>A Web Developer.</MainTitle>
-                    </div>
+                    </TextBlock>
 
                     <PhotoWrapper>
                         <Photo src={photo} alt=""/>
@@ -33,6 +33,11 @@ const StyledMain = styled.section`
     background-color: #fff5e7;
     display: flex;
 `
+
+const TextBlock = styled.div`
+    text-align: left;
+`
+
 const PhotoWrapper = styled.div`
   position: relative;
     z-index: 0;
