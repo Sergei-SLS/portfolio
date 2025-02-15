@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27934219-658c-4be9-9f18-9db45c08fcdc" name="Changes" comment="check pixel perfect" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sergei-SLS&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sergei-SLS/portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;2757113f-fb44-4dfa-9cff-7d60018eeabf&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2sM9hh7wkFwDZWeCZgSrzCxqrQp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "gh-pages",
+    "last_opened_file_path": "/home/sergey/itincubator/portfolio-start-project-vite-main/src/layout/header",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "npm.build.executor": "Run",
+    "npm.deploy.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.run.executor": "Run",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "ts.external.directory.path": "/home/sergey/itincubator/portfolio-start-project-vite-main/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/layout/header" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/layout/section/works" />
+      <recent name="$PROJECT_DIR$/src/layout/section" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Works" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="js.build_tools.npm" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.run">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27934219-658c-4be9-9f18-9db45c08fcdc" name="Changes" comment="" />
+      <created>1738254701859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738254701859</updated>
+      <workItem from="1738254708063" duration="1333000" />
+      <workItem from="1738259542145" duration="659000" />
+      <workItem from="1738261470740" duration="71000" />
+      <workItem from="1738332793226" duration="11157000" />
+      <workItem from="1738392872001" duration="3568000" />
+      <workItem from="1738409852432" duration="14814000" />
+      <workItem from="1738473418098" duration="8369000" />
+      <workItem from="1738765898481" duration="10070000" />
+      <workItem from="1738853136413" duration="10441000" />
+      <workItem from="1738941942252" duration="8341000" />
+      <workItem from="1739001477366" duration="562000" />
+      <workItem from="1739023318064" duration="10974000" />
+      <workItem from="1739081121207" duration="7125000" />
+      <workItem from="1739107349367" duration="356000" />
+      <workItem from="1739109568454" duration="936000" />
+      <workItem from="1739115108999" duration="2045000" />
+      <workItem from="1739124796754" duration="1092000" />
+      <workItem from="1739201609826" duration="6722000" />
+      <workItem from="1739293828990" duration="4387000" />
+      <workItem from="1739370373002" duration="5915000" />
+      <workItem from="1739376351826" duration="3404000" />
+      <workItem from="1739456836908" duration="10621000" />
+      <workItem from="1739545269706" duration="3935000" />
+      <workItem from="1739601460941" duration="7782000" />
+      <workItem from="1739620533453" duration="3812000" />
+      <workItem from="1739627189856" duration="94000" />
+      <workItem from="1739630007267" duration="4817000" />
+    </task>
+    <task id="LOCAL-00001" summary="add img and favicon">
+      <option name="closed" value="true" />
+      <created>1738338856720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738338856720</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create header">
+      <option name="closed" value="true" />
+      <created>1738339055223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738339055223</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create header">
+      <option name="closed" value="true" />
+      <created>1738339392111</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738339392111</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Structuring Header">
+      <option name="closed" value="true" />
+      <created>1738344525112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738344525112</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change menu">
+      <option name="closed" value="true" />
+      <created>1738345097457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738345097457</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create Main">
+      <option name="closed" value="true" />
+      <created>1738395907468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738395907468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create Skills">
+      <option name="closed" value="true" />
+      <created>1738416412200</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738416412200</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create section Work">
+      <option name="closed" value="true" />
+      <created>1738425680132</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738425680132</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create section Testimony">
+      <option name="closed" value="true" />
+      <created>1738476105882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738476105882</updated>
+    </task>
+    <task id="LOCAL-00010" summary="create section Contact">
+      <option name="closed" value="true" />
+      <created>1738477654121</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738477654121</updated>
+    </task>
+    <task id="LOCAL-00011" summary="create section Slogan">
+      <option name="closed" value="true" />
+      <created>1738478181787</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738478181787</updated>
+    </task>
+    <task id="LOCAL-00012" summary="create section Footer">
+      <option name="closed" value="true" />
+      <created>1738479896441</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738479896441</updated>
+    </task>
+    <task id="LOCAL-00013" summary="editing menu">
+      <option name="closed" value="true" />
+      <created>1738481599540</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738481599540</updated>
+    </task>
+    <task id="LOCAL-00014" summary="connect fonts, global styled and add conteiner">
+      <option name="closed" value="true" />
+      <created>1738771716925</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738771716925</updated>
+    </task>
+    <task id="LOCAL-00015" summary="styled header">
+      <option name="closed" value="true" />
+      <created>1738777486699</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738777486699</updated>
+    </task>
+    <task id="LOCAL-00016" summary="styled Main">
+      <option name="closed" value="true" />
+      <created>1738858751835</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738858751836</updated>
+    </task>
+    <task id="LOCAL-00017" summary="styled Skill">
+      <option name="closed" value="true" />
+      <created>1738863716406</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1738863716406</updated>
+    </task>
+    <task id="LOCAL-00018" summary="stylized Work">
+      <option name="closed" value="true" />
+      <created>1738949143343</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1738949143343</updated>
+    </task>
+    <task id="LOCAL-00019" summary="stylized Testimony and Contacts">
+      <option name="closed" value="true" />
+      <created>1739026740348</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739026740348</updated>
+    </task>
+    <task id="LOCAL-00020" summary="stylized Footer">
+      <option name="closed" value="true" />
+      <created>1739030785664</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739030785664</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add gh-pages">
+      <option name="closed" value="true" />
+      <created>1739086411588</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739086411588</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add gh-pages">
+      <option name="closed" value="true" />
+      <created>1739087820070</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1739087820070</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add gh-pages">
+      <option name="closed" value="true" />
+      <created>1739371791095</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1739371791095</updated>
+    </task>
+    <task id="LOCAL-00024" summary="create gh-pages">
+      <option name="closed" value="true" />
+      <created>1739374223623</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1739374223623</updated>
+    </task>
+    <task id="LOCAL-00025" summary="create gh-pages">
+      <option name="closed" value="true" />
+      <created>1739374251025</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739374251025</updated>
+    </task>
+    <task id="LOCAL-00026" summary="create gh-pages">
+      <option name="closed" value="true" />
+      <created>1739376388772</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1739376388772</updated>
+    </task>
+    <task id="LOCAL-00027" summary="create burger menu">
+      <option name="closed" value="true" />
+      <created>1739462607338</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739462607338</updated>
+    </task>
+    <task id="LOCAL-00028" summary="adaptive Main">
+      <option name="closed" value="true" />
+      <created>1739468117502</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739468117502</updated>
+    </task>
+    <task id="LOCAL-00029" summary="adaptive Skills">
+      <option name="closed" value="true" />
+      <created>1739549115810</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739549115810</updated>
+    </task>
+    <task id="LOCAL-00030" summary="adaptive Works">
+      <option name="closed" value="true" />
+      <created>1739603943905</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1739603943905</updated>
+    </task>
+    <task id="LOCAL-00031" summary="adaptive Testimony and Footer">
+      <option name="closed" value="true" />
+      <created>1739609358769</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1739609358769</updated>
+    </task>
+    <task id="LOCAL-00032" summary="check pixel perfect">
+      <option name="closed" value="true" />
+      <created>1739627263591</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1739627263591</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="gh-pages" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Structuring Header" />
+    <MESSAGE value="change menu" />
+    <MESSAGE value="create Main" />
+    <MESSAGE value="create Skills" />
+    <MESSAGE value="create section Work" />
+    <MESSAGE value="create section Testimony" />
+    <MESSAGE value="create section Contact" />
+    <MESSAGE value="create section Slogan" />
+    <MESSAGE value="create section Footer" />
+    <MESSAGE value="editing menu" />
+    <MESSAGE value="connect fonts, global styled and add conteiner" />
+    <MESSAGE value="styled header" />
+    <MESSAGE value="styled Main" />
+    <MESSAGE value="styled Skill" />
+    <MESSAGE value="stylized Work" />
+    <MESSAGE value="stylized Testimony and Contacts" />
+    <MESSAGE value="stylized Footer" />
+    <MESSAGE value="add gh-pages" />
+    <MESSAGE value="create gh-pages" />
+    <MESSAGE value="create burger menu" />
+    <MESSAGE value="adaptive Main" />
+    <MESSAGE value="adaptive Skills" />
+    <MESSAGE value="adaptive Works" />
+    <MESSAGE value="adaptive Testimony and Footer" />
+    <MESSAGE value="check pixel perfect" />
+    <option name="LAST_COMMIT_MESSAGE" value="check pixel perfect" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/layout/footer/Footer.tsx</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
