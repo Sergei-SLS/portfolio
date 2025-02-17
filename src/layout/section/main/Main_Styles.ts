@@ -10,6 +10,7 @@ const Main = styled.section`
 
 const TextBlock = styled.div`
     text-align: left;
+    //color: white;
 `
 
 const PhotoWrapper = styled.div`
