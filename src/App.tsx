@@ -7,10 +7,12 @@ import {Testimony} from "./layout/section/testimony/Testimony.tsx";
 import {Contact} from "./layout/section/contacts/Contacts.tsx";
 import {Slogan} from "./layout/section/slogan/Slogan.tsx";
 import {Footer} from "./layout/footer/Footer.tsx";
+import {Particale} from "./components/particle/Particale.tsx";
 
 function App() {
     return (
         <div className="App">
+            <Particale/>
             <Header/>
             <Main/>
             <Skills/>

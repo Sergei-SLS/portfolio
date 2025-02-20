@@ -24,14 +24,12 @@ const items = [
     <Slide userName={'piter petrov'}
            text={'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt  utlabore et dolore magna aliqua Ut enim. Lorem ipsum dolor sit amet, consectetur adipisicing'} />,
     <Slide userName={'igor igorev'}
-           text={'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utlabore et dolore magna aliqua Ut enim. Lorem ipsum dolor sit amet, consectetur adipisicing'} />,
+           text={'Lorem ipsum dolor sit amet'} />
 ];
 
 export const Slider = () => (
-    <S.Slide>
         <AliceCarousel
             mouseTracking
             items={items}
         />
-    </S.Slide>
 );
