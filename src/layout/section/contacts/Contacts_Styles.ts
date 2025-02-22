@@ -41,8 +41,18 @@ const Field = styled.input`
     }
 `
 
+const Message = styled.p `
+    margin-top: 10px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+    opacity: 1;
+    transition: .2s ease-in-out;
+`
+
 export const S = {
     Contacts,
     Form,
     Field,
+    Message,
 }
