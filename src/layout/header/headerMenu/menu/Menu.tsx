@@ -11,6 +11,10 @@ const items = [
         href: 'skills'
     },
     {
+        title: 'Works',
+        href: 'works'
+    },
+    {
         title: 'Testimony',
         href: 'testimony'
     },
